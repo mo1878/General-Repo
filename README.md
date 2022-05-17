@@ -1,4 +1,4 @@
-# mo-eldosoky
+# Mohammed Eldosoky
 Welcome to my GitHub Repo!!
 
 My name is Mohammed and I am a Junior Data Engineer at Savills plc.
